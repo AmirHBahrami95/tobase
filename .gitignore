@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+bin/
 
 # Object files
 *.o
@@ -53,3 +54,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# vim files
+*.swp
